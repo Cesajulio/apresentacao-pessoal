@@ -1,0 +1,26 @@
+
+body{
+background-color: #4a3852;
+}
+h1{
+   color: #da8489; 
+   font-family:poppins;
+
+}
+h2{
+    color: #da8489;
+    font-family:poppins;
+    font-size: 50px;
+
+}
+p{
+    color: #dcad8f;
+    font-family:poppins;
+    font-size: 30px;
+}
+
+.color1 {color: #4a3852;}
+.color2 {color: #6f425d;}
+.color3 {color: #9f5d75;}
+.color4 {color: #da8489;}
+.color5 {color: #dcad8f;}
